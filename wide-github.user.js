@@ -44,13 +44,13 @@ var styleSheet = "" +
 "#js-repo-pjax-container .repository-content .discussion-timeline {" +  // Issue body
   "margin-left: -220px;" +
   "padding-left: 220px;" +
-  "width: 100% !important;" +
+  "width: 80% !important;" +
 "}" +
 ".repository-content .discussion-sidebar {" +
   "width: 200px !important;" +
 "}" +
 ".repository-content .timeline-new-comment {" + // New Issue / issue comment form
-  "max-width: 100% !important;" +
+  "max-width: 80% !important;" +
 "}" +
 ".repository-content .inline-comments .comment-holder {" + // Diff / code comments
   "max-width: 960px !important;" +
